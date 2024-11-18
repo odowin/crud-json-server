@@ -39,6 +39,10 @@ cd angular17_debug_quest
 ```bash
 rm -rf .git
 ```
+si pb :
+```bash
+Remove-Item -Recurse -Force .git
+```
 
 ### 3. Initialiser un nouveau dépôt Git
 
